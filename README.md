@@ -2,7 +2,7 @@
 
 # Hi there 👋  
 
-I'm Chris Odhiambo, a passionate DevOps Engineer with 1+ years of experience in streamlining software delivery pipelines, optimizing workflows, and driving automation to deliver high-quality solutions. My goal is to bridge the gap between development and operations to build reliable and scalable systems.  
+I'm Chris Odhiambo, a passionate DevOps Engineer with 2+ years of experience in streamlining software delivery pipelines, optimizing workflows, and driving automation to deliver high-quality solutions. My goal is to bridge the gap between development and operations to build reliable and scalable systems.  
 
 ---
 
