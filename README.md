@@ -1,20 +1,20 @@
 
 
-# Hi there 👋  
+# Hi there 
 
 I'm Chris Odhiambo, a passionate DevOps Engineer with 3+ years of experience in streamlining software delivery pipelines, optimizing workflows, and driving automation to deliver high-quality solutions. My goal is to bridge the gap between development and operations to build reliable and scalable systems.  
 
 ---
 
-## 🌟 About Me  
-- 🔧 **DevOps Enthusiast**: Automating everything, from CI/CD pipelines to infrastructure provisioning.  
-- 🌐 **Cloud Practitioner**: Experienced with AWS and exploring Azure.  
-- 📚 **Lifelong Learner**: Constantly upskilling in scripting, container orchestration, and monitoring.  
-- 🌍 **Community Contributor**: I enjoy collaborating on open-source projects and sharing knowledge.  
+##  About Me  
+- **DevOps Enthusiast**: Automating everything, from CI/CD pipelines to infrastructure provisioning.  
+- **Cloud Practitioner**: Experienced with AWS and exploring Azure.  
+- **Lifelong Learner**: Constantly upskilling in scripting, container orchestration, and monitoring.  
+
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Languages**: Python, Bash
 - **CI/CD Tools**: Jenkins, GitHub Actions 
 - **Containerization**: Docker, Kubernetes  
