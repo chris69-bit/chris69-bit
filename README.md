@@ -1,6 +1,6 @@
 
 
-# Hi there 
+# Hi there! Am using Github 
 
 I'm Chris Odhiambo, a passionate DevOps Engineer with 3+ years of experience in streamlining software delivery pipelines, optimizing workflows, and driving automation to deliver high-quality solutions. My goal is to bridge the gap between development and operations to build reliable and scalable systems.  
 
@@ -26,10 +26,10 @@ I'm Chris Odhiambo, a passionate DevOps Engineer with 3+ years of experience in 
 ---
 
 ## 💬 How to Reach Me  
-- 📧 **Email**: chrispineouda@gmail.com  
-- 💼 **LinkedIn**: https://linkedin.com/in/chrispine-odhiambo
-  <!-- 🌐 **Portfolio/Website**: [Your Website or Portfolio URL] -->  
+-  **Email**: chrispineouda@gmail.com  
+-  **LinkedIn**: https://linkedin.com/in/chrispine-odhiambo
+  <!--  **Portfolio/Website**: [Your Website or Portfolio URL] -->  
 
 ---
 
-Feel free to connect or explore my repositories for a mix of **DevOps projects, CI/CD pipelines**, and more! Let’s collaborate and build something amazing! 🚀  
+Feel free to connect or explore my repositories for a mix of **DevOps projects, CI/CD pipelines**, and more! Let’s collaborate and build something amazing!   
